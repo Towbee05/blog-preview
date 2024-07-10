@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Towbee05/frontend_mentor_blog_preview)
-- Live Site URL: []()
+- Solution URL: [](https://github.com/Towbee05/blog-preview)
+- Live Site URL: [](https://towbee05.github.io/blog-preview/)
 
 ## My process
 
